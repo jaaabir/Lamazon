@@ -16,8 +16,8 @@
 
 ### Home page
 
-![home]("https://github.com/jaaabir/Lameazon/blob/master/home.png")
+![home](https://github.com/jaaabir/Lameazon/blob/master/home.png)
 
 ### My cart 
 
-![cart]("https://github.com/jaaabir/Lameazon/blob/master/cart.png")
+![cart](https://github.com/jaaabir/Lameazon/blob/master/cart.png)
