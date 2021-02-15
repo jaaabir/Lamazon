@@ -20,4 +20,4 @@
 
 ### My cart 
 
-![cart](https://github.com/jaaabir/Lameazon/blob/master/cart.png)
+![cart](./cart.png)
