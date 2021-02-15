@@ -16,7 +16,7 @@
 
 ### Home page
 
-![home](https://github.com/jaaabir/Lameazon/blob/master/home.png)
+![home](./home.png)
 
 ### My cart 
 
