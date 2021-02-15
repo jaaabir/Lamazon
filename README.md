@@ -16,8 +16,8 @@
 
 ### Home page
 
-![home]("./home.png")
+![home]("home.png")
 
 ### My cart 
 
-![cart]("./cart.png")
+![cart]("cart.png")
